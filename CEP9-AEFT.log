@@ -1,0 +1,4 @@
+﻿2021-02-22 16:15:33:770 : INFO  PlugPlug version : 9.2.1.52
+2021-02-22 16:15:33:878 : INFO  LogLevel : 1
+2021-02-22 16:15:34:001 : ERROR The extension 'com.adobe.LABORLearningPanel.course' is not supported for this host
+2021-02-22 16:16:45:301 : ERROR PlugPlugIMSConnectWithEndpoint: PlugPlugErrorCode_unknown (Can't call IMS without valid User)
